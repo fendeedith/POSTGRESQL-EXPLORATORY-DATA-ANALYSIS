@@ -1,4 +1,4 @@
-# EXPLORATORY-DATA-ANALYSIS-IN-POSTGRESQL
+# POSTGRESQL EXPLORATORY DATA ANALYSIS
 This analysis demonstrates strong SQL proficiency, data exploration techniques, and the ability to derive meaningful business insights from structured datasets.
 
 ## Objective
